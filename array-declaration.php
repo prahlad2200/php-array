@@ -62,4 +62,5 @@ var_dump($stack);
 $stack=array("one", "two", "three", "four", "five");
 array_splice($stack, 2,1); 
 var_dump($stack);
+/* end of file */
 ?>
