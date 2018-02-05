@@ -1,0 +1,4 @@
+ignore.php
+.htaccess
+upload/*
+!upload/readme.txt
