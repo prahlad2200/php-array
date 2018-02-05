@@ -4,5 +4,6 @@
 	/* ---------------------- */
 	echo "this is for domo string php functions";
 	echo "this for changeing beta";  
+	echo "this for changeing beta1"; 
 
 ?>
