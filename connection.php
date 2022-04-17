@@ -1,3 +1,3 @@
 <?php 
- echo "test connection new";
+ echo "test connection new 1";
 ?>
